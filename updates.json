@@ -4,6 +4,8 @@
       "updates": [
         { "version": "0.0.3",
           "update_link": "https://github.com/eksxx/imagesaveshortcuts/raw/master/image_save_shortcuts-0.0.3-an%2Bfx-windows.xpi" },
+		          { "version": "0.0.3a",
+          "update_link": "https://github.com/eksxx/imagesaveshortcuts/raw/master/image_save_shortcuts-0.0.3a-an%2Bfx-windows.xpi" }
       ]
     }
   }
