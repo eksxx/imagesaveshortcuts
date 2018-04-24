@@ -1,0 +1,10 @@
+{
+  "addons": {
+    "imagesaveshortcuts@aexks": {
+      "updates": [
+        { "version": "0.0.3",
+          "update_link": "https://example.com/addon-0.1.xpi" },
+      ]
+    }
+  }
+}
